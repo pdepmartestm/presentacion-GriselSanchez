@@ -1,7 +1,7 @@
 # Grisel Alma Sanchez
 ## Legajo: 167825-5
 
-<img src="https://github.com/pdepmartestm/presentacion-GriselSanchez/blob/master/IMG_2536.jpg" alt="Mi foto" width="200" />
+<img src="/IMG_2536.jpg" alt="Mi foto" width="200" />
 
 Mi nombre es Grisel, tengo 20 años y esta es la primera vez que curso esta materia.  
 
